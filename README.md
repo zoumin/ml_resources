@@ -151,6 +151,7 @@ This session lists publicly downloadable machine learning books.
 18. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 19. [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
 20. [Evolutionary Learning: Advances in Theories and Algorithms](https://link.springer.com/book/10.1007/978-981-13-5956-9) by Zhi-Hua Zhou， Yang Yu and Chao Qian
+21. [Machine Learning for Factor Investing](http://www.mlfactor.com/) by Guillaume Coqueret and Tony Guida
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
