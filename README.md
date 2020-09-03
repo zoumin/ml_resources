@@ -79,7 +79,7 @@ This session lists all machine learning related python packages.
 5. [AutoGluo](https://github.com/awslabs/autogluon): Amazon's AutoML toolkit
 6. [Optuna](https://optuna.org/) An open source hyperparameter optimization framework to automate hyperparameter search
    1. [LightGBM Tuner](https://optuna.readthedocs.io/en/stable/_modules/optuna/integration/lightgbm.html) an Optuna's integration modeule for optimizing hyberparameters of LightGBM. 
-   2. See [example](https://medium.com/optuna/lightgbm-tuner-new-optuna-integration-for-hyperparameter-optimization-8b7095e99258) LightGBM Tuner: New Optuna Integration for Hyperparameter Optimization
+   2. See [example](https://medium.com/optuna/lightgbm-tuner-new-optuna-integration-for-hyperparameter-optimization-8b7095e99258): LightGBM Tuner: New Optuna Integration for Hyperparameter Optimization
 ### Visualization
 1. [tqdm](https://github.com/tqdm/tqdm): A python progressbar
 2. [matplotlib](https://matplotlib.org/): All-purpose plotting package
