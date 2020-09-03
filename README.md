@@ -3,7 +3,7 @@
   - [Generic](#generic)
   - [Time Series](#time-series)
   - [Machine Learning](#machine-learning)
-  - [AutoML](#automl)
+  - [AutoML & Hyperparamter Optimization](#automl)
   - [Visualization](#visualization)
 - [Datasets](#datasets)
   - [General](#general)
@@ -71,12 +71,13 @@ This session lists all machine learning related python packages.
 28. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
 29. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
 30. [pycaret](https://github.com/pycaret/): low-code machine learning wrapper for many packages
-### AutoML
+### AutoML & Hyperparameter Optimization
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
 3. [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): Salesforce AutoML library
 4. [BoTorch](https://github.com/pytorch/botorch): Bayesian optimisation based on PyTorch
 5. [AutoGluo](https://github.com/awslabs/autogluon): Amazon's AutoML toolkit
+6. [Optuna] (https://optuna.org/) An open source hyperparameter optimization framework to automate hyperparameter search (e.g for LightGBM or XGBoost)
 ### Visualization
 1. [tqdm](https://github.com/tqdm/tqdm): A python progressbar
 2. [matplotlib](https://matplotlib.org/): All-purpose plotting package
