@@ -3,7 +3,7 @@
   - [Generic](#generic)
   - [Time Series](#time-series)
   - [Machine Learning](#machine-learning)
-  - [AutoML & Hyperparamter Optimization](#automl)
+  - [AutoML & Hyperparamter Optimization](#automl--Hyperparameter-Optimization)
   - [Visualization](#visualization)
 - [Datasets](#datasets)
   - [General](#general)
