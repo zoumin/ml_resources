@@ -77,7 +77,8 @@ This session lists all machine learning related python packages.
 3. [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): Salesforce AutoML library
 4. [BoTorch](https://github.com/pytorch/botorch): Bayesian optimisation based on PyTorch
 5. [AutoGluo](https://github.com/awslabs/autogluon): Amazon's AutoML toolkit
-6. [Optuna](https://optuna.org/) An open source hyperparameter optimization framework to automate hyperparameter search (e.g for LightGBM or XGBoost)
+6. [Optuna](https://optuna.org/) An open source hyperparameter optimization framework to automate hyperparameter search
+   6a. [LightGBM Tuner](https://optuna.readthedocs.io/en/stable/_modules/optuna/integration/lightgbm.html) an Optuna's integration modeule for optimizing hyberparameters of LightGBM. See [example](https://medium.com/optuna/lightgbm-tuner-new-optuna-integration-for-hyperparameter-optimization-8b7095e99258)
 ### Visualization
 1. [tqdm](https://github.com/tqdm/tqdm): A python progressbar
 2. [matplotlib](https://matplotlib.org/): All-purpose plotting package
