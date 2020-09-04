@@ -40,6 +40,7 @@ This session lists all machine learning related python packages.
 6. [sktime](https://github.com/alan-turing-institute/sktime): toolbox for machine learning with time-series
 7. [tsfresh](https://github.com/blue-yonder/tsfresh): Time series transformation, feature extraction and selection
 8. [cesium](https://github.com/cesium-ml/cesium): Time series feature extraction
+9. [Prophet](https://facebook.github.io/prophet/): A tool (developed by Facebook) for producing high-quality forecasts for time series data that has multiple seasonality with linear or non-linear growth
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
@@ -66,7 +67,7 @@ This session lists all machine learning related python packages.
 23. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
 24. [Plato](https://github.com/Tencent/plato): Tencent graph library
 25. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
-26. [dgl-ke](https://github.com/awslabs/dgl-ke: Fast and scalable knowledge graph algorithms by Amazon AWS
+26. [dgl-ke](https://github.com/awslabs/dgl-ke): Fast and scalable knowledge graph algorithms by Amazon AWS
 27. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
 28. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
 29. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
