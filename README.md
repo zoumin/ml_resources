@@ -244,6 +244,7 @@ This session lists interesting articles such as blogs or research papers.
 - [深度学习 cnn trick合集](https://zhuanlan.zhihu.com/p/137940586)
 - [Image Segmentation: Tips and Tricks from 39 Kaggle Competitions](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Andrej Karpathy's blog on LSTM
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [注意力机制综述](https://zhuanlan.zhihu.com/p/106662375)
