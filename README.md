@@ -72,6 +72,7 @@ This session lists all machine learning related python packages.
 28. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
 29. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
 30. [pycaret](https://github.com/pycaret/): low-code machine learning wrapper for many packages
+31. [DeepDow](https://github.com/jankrepl/deepdow): a Python package that focuses on neural networks that perform asset allocation in a single forward pass
 ### AutoML & Hyperparameter Optimization
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
