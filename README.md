@@ -221,6 +221,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [Supercharging Jupyter Notebooks](https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18)
 - [7 things to quickly improve your Data Analysis in Python](https://towardsdatascience.com/7-things-to-quickly-improve-your-data-analysis-in-python-3d434243da7)
+- [Intro to optimization in deep learning: Gradient Descent](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 - [时间序列预测方法总结](https://zhuanlan.zhihu.com/p/67832773)
 - [Initializing Neural Networks](http://www.deeplearning.ai/ai-notes/initialization/)
 - [Activation Functions Explained](https://mlfromscratch.com/activation-functions-explained/#/)
