@@ -250,6 +250,8 @@ This session lists interesting articles such as blogs or research papers.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Andrej Karpathy's blog on LSTM
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)(http://jalammar.github.io/illustrated-gpt2/)
+- [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 - [注意力机制综述](https://zhuanlan.zhihu.com/p/106662375)
 - [浅谈Attention机制的理解](https://zhuanlan.zhihu.com/p/35571412)
 - [nlp中的Attention注意力机制+Transformer详解](https://zhuanlan.zhihu.com/p/53682800)
