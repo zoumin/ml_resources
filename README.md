@@ -41,6 +41,7 @@ This session lists all machine learning related python packages.
 7. [tsfresh](https://github.com/blue-yonder/tsfresh): Time series transformation, feature extraction and selection
 8. [cesium](https://github.com/cesium-ml/cesium): Time series feature extraction
 9. [Prophet](https://facebook.github.io/prophet/): A tool (developed by Facebook) for producing high-quality forecasts for time series data that has multiple seasonality with linear or non-linear growth
+10. [Darts](https://github.com/unit8co/darts): A python library for easy manipulation and forecasting of time series. (including variety of models from ARIMA to neural networks like RNN, LSTM, Temporal convolutional network, etc)
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
